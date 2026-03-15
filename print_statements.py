@@ -1,5 +1,3 @@
-# ITP Week 1 Day 2 Exercise
-
 # We will replicate a number magic trick with Python! Below is the magic trick that we will convert! Below that is the python instructions, you will need to complete.
 
 # Step 1: Pick a number from 1 - 9
