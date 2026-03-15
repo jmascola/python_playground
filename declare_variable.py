@@ -1,5 +1,3 @@
-# ITP Week 1 Day 1 Exercise
-
 # declare a VARIABLE named my_favorite_band and ASSIGN it a STRING value of your choice.
 my_favorite_band = "ABBA"
 
