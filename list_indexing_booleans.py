@@ -1,5 +1,3 @@
-# ITP Week 1 Day 3 Exercise
-
 us_states = ["Alabama",
 "Alaska",
 "Arizona",
